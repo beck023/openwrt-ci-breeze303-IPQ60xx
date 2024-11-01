@@ -6,7 +6,7 @@ on:
 env:
   REPO_URL: https://github.com/LiBwrt-op/openwrt-6.x.git
   REPO_BRANCH: main
-  CONFIG_FILE: configs/my_ipq60xx.config
+  CONFIG_FILE: configs/my_ipq60xx_no_wifi.config
   DIY_SCRIPT: my-diy.sh
   CLASH_KERNEL: amd64
   CACHE_TOOLCHAIN: true
