@@ -1,4 +1,4 @@
-name: ipq60xx-no-wifi serial mini pkgs
+name: ipq60xx serial No-WiFi mini pkgs
 
 on:
   workflow_dispatch:
